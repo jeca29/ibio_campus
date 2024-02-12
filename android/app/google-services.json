@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751581691204",
+    "project_id": "ibio-campus",
+    "storage_bucket": "ibio-campus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751581691204:android:ff78b5edd9333298cdeb11",
+        "android_client_info": {
+          "package_name": "com.example.ibio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7hCNPkkhfiN3Z7Wrei8qVk3lSStMpNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
